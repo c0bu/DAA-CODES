@@ -1,5 +1,6 @@
 //maximum subarray with O(n) solution............................
 //siddharth jain
+//C++ CODE 
 #include<iostream>
 using namespace std;
 
@@ -26,3 +27,4 @@ int main()
   cout<<"maximum subarray sum is "<<ms;
 
 }
+// CODE TERMINATED
