@@ -7,6 +7,7 @@ int main()
   int n;
   int maxSum=0;
   int curSum=0;
+  //int left=-1;
   int left=-1;
   int right=-1;
   cin>>n;
@@ -42,5 +43,7 @@ int main()
   {
     cout<<arr[k]<<",";
   }
+  //return 0;
   return 0;
 }
+// c++ code 
